@@ -1,5 +1,9 @@
-.centered-content {
+h1 {
     text-align: center;
     max-width: 600px;
     margin: 0 auto;
+}
+
+body {
+    background-color: beige;
 }
