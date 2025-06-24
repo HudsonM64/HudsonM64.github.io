@@ -11,14 +11,15 @@ body {
 }
 
 button {
-    display: flex;
+    display: inline-block;
     justify-content: center;
-    align-items: center;
     height: 50px;
-    border: 3px solid green;
     padding: 40px 44px;
+    margin: 40px 44px;
     font-size: 40px;
-    color: rgb(149, 76, 46);
+    background-color: rgb(149, 76, 46);
+    color: rgb(239, 238, 210);
+    cursor: pointer;
 }
 
 h2 {
