@@ -1,11 +1,13 @@
 h1 {
     text-align: center;
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
+    font-size: 40px;
+    color: rgb(239, 228, 210);
 }
 
 body {
-    background-color: beige;
+    background-color: rgb(37, 77, 112);
 }
 
 button {
@@ -16,15 +18,18 @@ button {
     border: 3px solid green;
     padding: 40px 44px;
     font-size: 40px;
+    color: rgb(149, 76, 46);
 }
 
 h2 {
     text-align: center;
     max-width: 600px;
     margin: 0 auto;
-    font-size: 50px;
+    font-size: 40px;
+    color: rgb(239, 228, 210);
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
+    color: rgb(239, 228, 210);
 }
