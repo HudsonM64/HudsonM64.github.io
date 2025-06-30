@@ -1,3 +1,4 @@
+
 h1 {
     text-align: center;
     max-width: 800px;
@@ -38,4 +39,21 @@ h2 {
 p {
     font-size: 20px;
     color: rgb(239, 228, 210);
+}
+
+.Details {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 20px;
+    color: rgb(239, 228, 210);
+}
+
+
+.footer {
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 60px;
+    border-top: 1px solid rgba(239, 238, 210, 0.2);
+    opacity: 0.8;
 }
